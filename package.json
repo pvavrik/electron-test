@@ -11,6 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/pvavrik/electron-test.git"
   },
+  "engines": {
+    "node": "6.2.2",
+    "npm": "3.9.5"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
